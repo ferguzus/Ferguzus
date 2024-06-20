@@ -1,13 +1,13 @@
 <!-- Introduction -->
-<h5 align="center">Hi <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/wave-ezgif.com-effects.gif" width="24" height="24" alt="laptop gif" />, I'm iFergTech</h5>
+<h5 align="center">Hi <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/assets/animation/icons/wave-ifergtech.com-effects.gif" width="24" height="24" alt="laptop gif" />, I'm iFergTech</h5>
 <!-- Banner -->
-<div align="center"> <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/ifergtech-bannerCopy8020847-ezgif.com-video-to-gif-converter_(1)[1].gif"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/assets/animation/banner/ifergtech-animated-banner.gif"> </div>
 <!-- Aspiring Full-Stack Developer -->
-<h6 align="center"><img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/rocket-ezgif.com-effects.gif" width="24" height="24" alt="laptop gif"/>Aspiring Full-Stack Developer</h6>
+<h6 align="center"><img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/assets/animation/icons/rocket-ifergtech.com-effects.gif" width="24" height="24" alt="laptop gif"/>Aspiring Full-Stack Developer</h6>
 <!-- Profile views -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ferguzus&label=Profile%20views&color=AC90FE&style=flat" alt="ifergtech" /> </p>
 <!-- GIF Anya Waku Waku -->
-<img align="right" alt="Coding" width="140" height="140" src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/waku-waku.webp">
+<img align="right" alt="Coding" width="140" height="140" src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/assets/sticker/anya_v1.webp">
 <!--  Pixaloop_19_06_2024_21_47_32_2839999-ezgif.com-video-to-gif-converter[1].gif-->
 <hr> <!-- <hr> horizontal line -->
 <!------------------------------------------------------------------------------------------------------------------------------------------------>
@@ -130,10 +130,10 @@
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------>
 <!-- Local Machine & Peripherals -->
-## <img src="https://cdn-icons-png.flaticon.com/128/6126/6126663.png" alt="visualstudio" width="25" height="25"> <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/20240620_001237[1].png" alt="visualstudio" width="200" height="25">
+## <img src="https://cdn-icons-png.flaticon.com/128/6126/6126663.png" alt="visualstudio" width="25" height="25"> <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/assets/texts/local-machine.png" alt="visualstudio" width="200" height="25">
 <h5>
   
-&nbsp;<img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/20240619_222457[1].png" alt="vscode" width="15" height="15"/><!-- 20 --> 
+&nbsp;<img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/assets/icons/windows-11-pro.png" alt="vscode" width="15" height="15"/><!-- 20 --> 
 `
  Windows 11 Pro
 `  
